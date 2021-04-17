@@ -9,3 +9,6 @@ Esta aplicación corre en el puerto 8081.
 
 3.- verificar funcionamiento:
 "docker exec -it app_grupo1_container bash"
+
+4.-se dejo publico en DockeHub en:
+docker pull rodrigozunigab/my-java-grupo1:latest
